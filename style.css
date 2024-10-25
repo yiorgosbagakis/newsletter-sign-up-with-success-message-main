@@ -58,7 +58,7 @@ ul {
 
 li {
   margin-bottom: 10px;
-  list-style-image: url(/assets/images/icon-list.svg);
+  list-style-image: url(assets/images/icon-list.svg);
   padding-left: 10px;
 }
 
